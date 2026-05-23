@@ -1,6 +1,4 @@
 # TechRx
-AI-Powered Pharmacogenomic Risk Prediction System
-
 # PharmaGuard 
 ### AI-Powered Pharmacogenomic Risk Prediction System
 
